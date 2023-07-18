@@ -6,7 +6,7 @@ Page-1:
 
 
 Page 2:
-![Output2](https://github.com/abhishekdasz/FlipkartCloneMobileApp/assets/87275238/4af3dd19-c0ae-4fe3-8eeb-cbe333a76690)
+![Output2](https://github.com/abhishekdasz/FlipkartCloneMobileApp/assets/87275238/8e836a69-7dc4-479c-ba18-bf0aafffe298)
 
 
 You can run this app by scanning this QR Code:
