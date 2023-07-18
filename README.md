@@ -2,7 +2,8 @@
 
 Outputs of this app
 Page-1:
-![Output1](https://github.com/abhishekdasz/FlipkartCloneMobileApp/assets/87275238/73235538-6556-41cb-a408-60ae4f6fbb60)
+![Output1](https://github.com/abhishekdasz/FlipkartCloneMobileApp/assets/87275238/53385565-f5b1-4461-86db-65e7d8fef156)
+
 
 Page 2:
 ![Output2](https://github.com/abhishekdasz/FlipkartCloneMobileApp/assets/87275238/4af3dd19-c0ae-4fe3-8eeb-cbe333a76690)
