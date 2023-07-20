@@ -1,6 +1,7 @@
 # FlipkartCloneMobileApp
 
 Outputs of this app
+
 Page-1:
 ![Output1](https://github.com/abhishekdasz/FlipkartCloneMobileApp/assets/87275238/53385565-f5b1-4461-86db-65e7d8fef156)
 
