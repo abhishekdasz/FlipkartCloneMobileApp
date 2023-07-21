@@ -2,11 +2,11 @@
 
 Outputs of this app
 
-Page-1:
+Page-1:-
 ![Output1](https://github.com/abhishekdasz/FlipkartCloneMobileApp/assets/87275238/53385565-f5b1-4461-86db-65e7d8fef156)
 
 
-Page 2:
+Page 2:-
 ![Output2](https://github.com/abhishekdasz/FlipkartCloneMobileApp/assets/87275238/8e836a69-7dc4-479c-ba18-bf0aafffe298)
 
 
